@@ -3,7 +3,7 @@ import org.eclipse.paho.client.mqttv3.persist.MemoryPersistence;
 
 public class test {
     private static String serviceURI= "3310.ddns.net:1883";
-    private static String clientID = "3310-u6089193";
+    private static String clientID = "3310-u1234567";
 
     private static MqttClientPersistence persistence = new MemoryPersistence();
 
