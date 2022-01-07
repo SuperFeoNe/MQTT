@@ -16,7 +16,7 @@ public class MQTT implements MqttCallback {
     private static String acc = "students"; //user name
     private static String pwd = "33106331"; // password
     private static String broker = "tcp://comp3310.ddns.net:1883"; // url
-    private static String clientID = "3310-u6089193";
+    private static String clientID = "3310-u1234567";
     private static int qos = 2; // Quality of Service level
     private static String topic = "counter/fast/q2";
 
